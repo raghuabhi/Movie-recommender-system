@@ -1,0 +1,4 @@
+path/to/similarity.pkl filter=lfs diff=lfs merge=lfs -text
+C:/Users/backf/Movie_recommmender/movies-system/similarity.pkl filter=lfs diff=lfs merge=lfs -text
+*.pkl filter=lfs diff=lfs merge=lfs -text
+C:/Users/backf/Movie_recommmender/movies-system/similarity.pkl filter=lfs diff=lfs merge=lfs -text
